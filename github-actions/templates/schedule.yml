@@ -8,3 +8,4 @@ jobs:
     steps:
       - name: Echo current time
         run: echo "The current server time that you are seeing is :$(date)"
+        run: echo "The current server time that you are seeing is :$(date)"
